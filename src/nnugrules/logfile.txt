@@ -1,0 +1,4 @@
+2016-09-29 14:13:17.329 +02:00 [Information] Application startup complete!
+2016-09-29 14:13:17.345 +02:00 [Fatal] This is a critical message
+2016-09-29 14:13:17.349 +02:00 [Warning] This is a warning message
+2016-09-29 14:13:17.350 +02:00 [Error] This is an error message
