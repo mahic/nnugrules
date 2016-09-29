@@ -15,7 +15,8 @@
     "Microsoft.Extensions.Configuration.CommandLine": "1.0.0",
     "Microsoft.Extensions.Options": "1.0.0",
     "Serilog.Extensions.Logging": "1.2.0",
-    "Serilog.Sinks.File": "3.0.1"
+    "Serilog.Sinks.File": "3.0.1",
+    "nnugclasslib":"1.0.*"
   },
   "frameworks": {
     "netcoreapp1.0": {

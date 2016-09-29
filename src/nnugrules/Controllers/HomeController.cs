@@ -1,12 +1,12 @@
 ﻿using System;
 using System.Globalization;
-using System.Security.Cryptography.X509Certificates;
 using Microsoft.AspNetCore.Mvc;
+using nnugclasslib;
 
 public class HomeController : Controller
 {
     [HttpGet("/")]
-    public string Index() => "Hello from MVC!";
+    public string Index() => "Hello from MVC!" + Lib.Libz();
 
     [HttpGet("/500")]
     public ActionResult Error()
